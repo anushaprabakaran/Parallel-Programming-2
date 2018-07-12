@@ -3,8 +3,7 @@
 // Dissemination formula, using hybrid form of MPI and
 // OpenMPI
 // 
-// Name : Anusha Prabakaran
-// Stdent ID : 1470730
+
 
 #include "mpi.h"      // for using MPI
 #include <omp.h>      // for using OpenMP
