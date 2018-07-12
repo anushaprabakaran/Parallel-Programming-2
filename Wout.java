@@ -5,10 +5,6 @@ import javax.swing.JFrame;
 import java.util.Scanner;
 import java.io.*;
 
-/**
- *
- * @author Munehiro Fukuda
- */
 class Wout {
     static final int defaultN = 100;  // the default system size
     static final int defaultCellWidth = 8;
