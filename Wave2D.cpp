@@ -2,9 +2,6 @@
 // Two dimensional wave diffusion program using Schroedinger's Wave
 // Dissemination
 // 
-// Name : Anusha Prabakaran
-// Stdent ID : 1470730
-
 
 #include <iostream>
 #include "Timer.h"
